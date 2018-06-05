@@ -9,7 +9,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * Initial object used to run Application
  *
  */
-@SpringBootApplication(scanBasePackages = "com.harpo.module")
+@SpringBootApplication(scanBasePackages = "com.harpo.firstproject.module")
 public class FirstprojectApplication {
 
 	public static void main(String[] args) {
